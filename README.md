@@ -4,6 +4,7 @@ emoji: 🤖
 colorFrom: blue
 colorTo: green
 sdk: docker
+app_port: 7860
 pinned: false
 ---
 
@@ -68,3 +69,16 @@ Quiz URL → Agent → Tools (Web Scraper, Code Executor, etc.)
                 ↓
            Submit Answer → Next Question
 ```
+=======
+title: Llm Quiz Solver Agent V2
+emoji: 🐠
+colorFrom: green
+colorTo: yellow
+sdk: docker
+pinned: false
+license: mit
+short_description: TDS PROJECT 2
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> dfd9b892324d9725e779427014c36f98a81793fe
